@@ -63,7 +63,7 @@ The website consists of the following key sections:
 ├── Hero Section.jpg    # Image displayed in the hero section
 ├── styles.css          # Custom CSS styles (inlined in HTML)
 ```
-
+#Gssoc
 ## Usage 📄
 
 1. **Home Page**: Introduces users to the service with a description and a call-to-action button.
